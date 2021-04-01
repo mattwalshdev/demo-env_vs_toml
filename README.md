@@ -14,6 +14,10 @@ create a blank .venv folder if you want the virtual environment to setup in the 
 
 `pipenv shell`
 
+rename or copy **.example-env** to **.env**
+
+rename or copy **.example-env.toml** to **.env.toml**
+
 `python3 main.py`
 
 `mypy main.py`
@@ -36,6 +40,10 @@ download and cd to project
 `pip install wheel`
 
 `pip install -r requirements.txt`
+
+rename or copy **.example-env** to **.env**
+
+rename or copy **.example-env.toml** to **.env.toml**
 
 `python3 main.py`
 
