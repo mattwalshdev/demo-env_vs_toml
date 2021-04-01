@@ -18,7 +18,7 @@ create a blank .venv folder if you want the virtual environment to setup in the 
 
 `mypy main.py`
 
-\# to exit venv
+\# to exit venv  
 `exit`
 
 ## How to setup and run with Python venv
@@ -41,5 +41,5 @@ download and cd to project
 
 `mypy main.py`
 
-\# to exit venv
+\# to exit venv  
 `deactivate`
