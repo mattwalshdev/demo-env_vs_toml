@@ -1,0 +1,19 @@
+# general things to ignore
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+.mypy_cache/
+*.so
+*~
+.env
+.env.toml
+venv/
+.venv/
+.vscode
+
+# testing files
+.tox
+.cache

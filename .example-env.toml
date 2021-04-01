@@ -1,0 +1,6 @@
+# example .env.toml file
+[demo]
+string_example = "I'm a string"
+bool_example = false
+int_example = 123
+float_example = 0.29
